@@ -1,4 +1,4 @@
-module github.com/jpillora/chisel
+module MarianiFrancesco/VialeAlberato/chisel
 
 go 1.21
 
