@@ -1,4 +1,4 @@
-module MarianiFrancesco/VialeAlberato/chisel
+module github.com/MarianiFrancesco/VialeAlberato
 
 go 1.21
 
