@@ -11,12 +11,12 @@ import (
 	"strings"
 	"time"
 
-	chclient "github.com/jpillora/chisel/client"
-	chserver "github.com/jpillora/chisel/server"
-	chshare "github.com/jpillora/chisel/share"
-	"github.com/jpillora/chisel/share/ccrypto"
-	"github.com/jpillora/chisel/share/cos"
-	"github.com/jpillora/chisel/share/settings"
+	chclient "github.com/MarianiFrancesco/VialeAlberato/client"
+	chserver "github.com/MarianiFrancesco/VialeAlberato/server"
+	chshare "github.com/MarianiFrancesco/VialeAlberato/share"
+	"github.com/MarianiFrancesco/VialeAlberato/share/ccrypto"
+	"github.com/MarianiFrancesco/VialeAlberato/share/cos"
+	"github.com/MarianiFrancesco/VialeAlberato/share/settings"
 )
 
 var help = `
