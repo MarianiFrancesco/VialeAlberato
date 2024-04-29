@@ -17,8 +17,8 @@ import (
 	"path"
 	"time"
 
-	chclient "github.com/jpillora/chisel/client"
-	chserver "github.com/jpillora/chisel/server"
+	chclient "github.com/MarianiFrancesco/VialeAlberato/client"
+	chserver "github.com/MarianiFrancesco/VialeAlberato/server"
 )
 
 type tlsConfig struct {
