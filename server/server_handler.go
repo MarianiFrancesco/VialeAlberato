@@ -6,10 +6,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	chshare "github.com/jpillora/chisel/share"
-	"github.com/jpillora/chisel/share/cnet"
-	"github.com/jpillora/chisel/share/settings"
-	"github.com/jpillora/chisel/share/tunnel"
+	chshare "github.com/MarianiFrancesco/VialeAlberato/share"
+	"github.com/MarianiFrancesco/VialeAlberato/share/cnet"
+	"github.com/MarianiFrancesco/VialeAlberato/share/settings"
+	"github.com/MarianiFrancesco/VialeAlberato/share/tunnel"
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/sync/errgroup"
 )
